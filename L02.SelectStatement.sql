@@ -1,0 +1,38 @@
+SELECT * 
+FROM parks_and_recreation.employee_demographics; 
+
+
+SELECT first_name
+FROM parks_and_recreation.employee_demographics; 
+
+SELECT first_name,
+last_name,
+birth_date
+FROM parks_and_recreation.employee_demographics; 
+
+SELECT first_name,
+last_name,
+birth_date,
+age,
+(age + 10) * 10 + 1
+FROM parks_and_recreation.employee_demographics; 
+/*Any type of calculations in mysql follow the rules of PEMDAS*/
+#PEMDAS :Paranthesis > Exponent > Multiplication > Division > Addition > Substraction 
+
+SELECT gender
+FROM parks_and_recreation.employee_demographics;
+
+SELECT DISTINCT gender
+FROM parks_and_recreation.employee_demographics; 
+
+SELECT DISTINCT first_name,gender
+FROM parks_and_recreation.employee_demographics; 
+
+
+
+
+
+
+
+
+
