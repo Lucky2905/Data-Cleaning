@@ -8,7 +8,7 @@ This project focuses on cleaning and preprocessing a real-world dataset of globa
 
 ## 📂 Dataset
 
-- **Source:** [Kaggle — Tech Layoffs Dataset](https://www.kaggle.com/)
+- **Source:** [Kaggle — Layoffs 2022 by swaptr](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 - **Domain:** Global technology industry layoffs
 - **Fields include:** Company, Location, Industry, Total Laid Off, Percentage Laid Off, Date, Stage, Country, Funds Raised (Millions)
 
@@ -92,4 +92,4 @@ The cleaned dataset is free of duplicates, has consistent categorical values, co
 ## 👤 Author
 
 **Lucky Sinha**  
-[GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/)
+[GitHub](https://github.com/Lucky2905) • [LinkedIn](https://www.linkedin.com/in/lucky-sinha/)
